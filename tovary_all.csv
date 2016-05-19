@@ -1,0 +1,99 @@
+title;id_product;uroven;vremya_rosta;stoim_ambar;stoim_cash;razdel
+Пшеница;wheat;1;2;1;1;Сырье
+Молоко;milk;1;20;7;5;Товары
+Хлеб;bread;2;5;5;3;Товары
+Кукуруза;corn;3;5;3;1;Сырье
+Корм для коров;cowfeed;3;5;3;2;Товары
+Морковь;carrot;4;10;5;2;Сырье
+Сметана;cream;4;15;12;8;Товары
+Корм для кур;chickenfeed;5;10;4;2;Товары
+Яйца;egg;5;60;10;7;Товары
+Печенье;cookie;5;15;44;18;Товары
+Тыква;pumpkin;6;25;6;3;Сырье
+Halloweenpie;halloweenpie;6;50;40;20;Товары
+Сыр;cheese;6;30;25;14;Товары
+Тростник;sugarcane;7;20;7;3;Сырье
+Сахар;sugar;7;20;14;6;Товары
+Бублик;bagel;8;30;55;32;Товары
+Хлопок;cotton;9;30;9;4;Сырье
+Хлопковая ткань;cottonfabric;9;30;37;12;Товары
+Корм для овец;sheepfeed;10;20;5;3;Товары
+Шерсть;wool;10;240;15;11;Товары
+Пряжа;woolfabric;10;40;61;26;Товары
+Масло;butter;11;60;39;20;Товары
+Рубашка;shirt;12;60;45;17;Товары
+halloweencostume;halloweencostume;12;90;120;42;Товары
+Клубника;strawberry;13;60;11;5;Сырье
+Pop Corn;popcorn;14;30;12;6;Товары
+Halloweenchips;halloweenchips;14;150;29;16;Товары
+Sweater;sweater;14;90;76;32;Товары
+Томат;tomat;15;120;13;6;Сырье
+Milk Shake;milkshake;16;15;30;18;Товары
+Cheeseburger;cheeseburger;16;30;57;30;Товары
+Corn Chips;cornchips;17;60;19;8;Товары
+Syrup;syrup;17;40;29;10;Товары
+Елка;pine;18;180;15;7;Сырье
+Paper;paper;18;90;19;13;Товары
+Granola;granola;19;40;29;16;Товары
+Jam Sandwich;sandwich;19;40;80;37;Товары
+Ice Cream;icecream;20;30;39;23;Товары
+Coat;coat;20;120;125;44;Товары
+Yogurt;yogurt;21;90;53;26;Товары
+Fruit Ice;fruitice;21;90;45;22;Товары
+Картофель;potato;22;240;17;8;Сырье
+Pizza;pizza;22;120;68;34;Товары
+Potato Chips;chips;22;120;69;22;Товары
+Frozen Yogurt;frozenyogurt;23;180;87;41;Товары
+Paper Towel;papertowel;23;150;39;21;Товары
+Caramel;caramel;24;90;45;15;Товары
+Muffin;muffin;24;30;68;41;Товары
+Какао;cacao;25;480;19;11;Сырье
+Eskimo;eskimo;25;240;87;36;Товары
+Potato Bread;potatobread;26;60;158;50;Товары
+Brownie;brownie;27;40;128;56;Товары
+French Fries;frenchfries;28;60;88;41;Товары
+Резиновое дерево;rubberTree;29;720;30;13;Сырье
+Rubber;rubber;29;60;37;18;Товары
+Cupcake;cupcake;30;60;93;54;Товары
+Wallpaper;wallpapers;30;180;89;39;Товары
+Шелк;silk;31;900;33;14;Сырье
+Silk Fabric;silkfabric;31;90;140;34;Товары
+Hat;hat;31;150;231;53;Товары
+Plastic;plastic;32;90;75;32;Товары
+Doughnut;doughnut;33;90;149;64;Товары
+Dress;dress;33;180;268;67;Товары
+Plastic Bottle;plasticbottle;34;90;94;38;Товары
+Bee Feed;beefeed;35;30;7;4;Товары
+Honeycomb;honeycomb;35;360;22;14;Товары
+Toy;toys;35;45;136;55;Товары
+Cheesecake;cheesecake;36;180;160;60;Товары
+Suit;suit;36;240;330;80;Товары
+Glue;glue;37;120;115;45;Товары
+Beach Ball;ball;37;120;243;84;Товары
+Honey Caramel;honeycaramel;38;150;38;24;Товары
+Wheel;wheel;38;150;247;88;Товары
+Jelly Beans;jellybeans;39;120;79;31;Товары
+Toffee;toffee;40;180;112;42;Товары
+Stick Candy;candystick;42;240;105;44;Товары
+Перец;pepper;43;300;20;9;Сырье
+Hot Chilli Sauce;sauce;43;120;144;57;Товары
+Chocolate;chocolate;45;150;108;54;Товары
+Nachos;nachos;46;180;112;47;Товары
+Table;table;47;240;62;29;Товары
+Chair;chair;47;180;100;39;Товары
+Lollipop;lollipop;48;300;117;43;Товары
+Couch;couch;48;360;100;36;Товары
+Taco;taco;49;90;109;47;Товары
+Flip Flops;flipflops;50;90;46;24;Товары
+Book;book;52;210;310;117;Товары
+Pendant;pendant;53;30;345;45;Товары
+Bed;bed;54;270;292;69;Товары
+Sneakers;sneakers;55;120;241;81;Товары
+Honey Cake;honeycake;56;60;70;43;Товары
+Ring;ring;57;60;426;52;Товары
+Boots;boots;58;180;389;104;Товары
+Heels;heels;60;150;400;111;Товары
+Honey Candy;honeycandy;61;270;82;47;Товары
+Earrings;earrings;63;90;885;91;Товары
+gazpacho;gazpacho;65;150;110;46;Товары
+Diadem;diadem;69;120;1012;106;Товары
